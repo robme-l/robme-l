@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects addressing cybersecurity, marketing, or micro-financing
 - 📫 How to reach me: robme.l@tuta.io (email) or @robme_l (twitter)
 
-Note: this is a successor to the @robml profile and focuses on applied and research oriented ML/DL/RL. For work regarding web and mobile technologies you can check out my previous profile.
+Note: this is a successor to the @robml profile and focuses on applied and research oriented ML/DL/RL. For work over the past 8 years regarding web and mobile technologies you can check out my previous profile.
 
 DP Credit: <a href='https://www.freepik.com/vectors/panda-logo'>Panda logo vector created by catalyststuff - www.freepik.com</a>
 <!---
